@@ -25,7 +25,7 @@ width: 100vw;
 display: flex;
 }
 .hero-img {
-margin-top: 18px;
+
 }
 .nav-bar {
     top: 0;
@@ -62,7 +62,7 @@ background-color: #FCD9DC;
 background-size: cover;
 height: 75px;
 width: 100vw;
-margin-top: 18px;
+
 }
 .text { text-align: center;
     color: #800020;
@@ -82,8 +82,7 @@ display: flex;
 font-family: STHeiti, light;
 font-size: 30px;
 font-weight: lighter;
-color: #707070;
-
+color: #800020;
 }
 .owners {
 margin-top: 10px;
@@ -125,7 +124,7 @@ gap: 20px;
 }
 .button {
     border: 2px;
-    color: #707070;
+    color: #800020;
     padding: 8px 8px;
     text-align: center;
     text-decoration: none;
@@ -169,7 +168,7 @@ hr {
     background-color: white;
     margin: -45px;
     display: inline-block;
-    color: #707070;
+    color: #800020;
     font-family: STHeiti, light;
     font-size: 40px;
     font-weight: lighter;
@@ -186,13 +185,13 @@ hr {
     padding-top: 20px;
 }
 .detail-head { text-align: center;
-    color: #707070;
+    color: #800020;
     font-family: STHeiti, light;
     font-size: 25px;
     font-weight: lighter;
 }
 .further-info { text-align: center;
-    color: #707070;
+    color: #800020;
     font-family: STHeiti, light;
     font-size: 20px;
     font-weight: lighter;
